@@ -1,12 +1,26 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Container from './components/Container.js'
+import Header from './components/Header.js'
+import Base from './components/Base.js'
+import Footer from './components/Footer.js'
+// Importar CSS
+import './style.css';
+//
+import { LangProvider } from './context/langContext';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <LangProvider>
+        <Container>
+          <Header />
+          <Base />
+          <Footer />
+        </Container>
+    </LangProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );

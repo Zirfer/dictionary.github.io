@@ -1,0 +1,12 @@
+{
+    "app.lang": "en",
+    "app.title": "My Dictionary",
+    "app.search": "Search for:",
+    "app.meaning": "Meaning:",
+    "app.example": "Example:",
+    "app.btn-search": "Search",
+    "app.btn-clean": "Clean",
+    "app.copyright": "Copyright ",
+    "app.footer": " My Dictionary",
+    "app.notSearch": "There is no word to search"
+}

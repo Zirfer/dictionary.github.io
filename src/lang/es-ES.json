@@ -1,0 +1,11 @@
+{
+    "app.lang": "es",
+    "app.title": "Mi Diccionario",
+    "app.search": "Buscar:",
+    "app.meaning": "Significado:",
+    "app.example": "Ejemplo:",
+    "app.btn-search": "Buscar",
+    "app.btn-clean": "Limpiar",
+    "app.copyright": "Copyright ",
+    "app.footer": " Mi Diccionario"
+}
