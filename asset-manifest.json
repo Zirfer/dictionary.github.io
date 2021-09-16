@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-dictionary-multi-languaje/static/css/main.ff89584f.chunk.css",
+    "main.css": "/my-dictionary-multi-languaje/static/css/main.4a5ba4fa.chunk.css",
     "main.js": "/my-dictionary-multi-languaje/static/js/main.862812e6.chunk.js",
     "main.js.map": "/my-dictionary-multi-languaje/static/js/main.862812e6.chunk.js.map",
     "runtime-main.js": "/my-dictionary-multi-languaje/static/js/runtime-main.cfb3ccaf.js",
@@ -12,14 +12,14 @@
     "static/js/3.8a10d525.chunk.js.map": "/my-dictionary-multi-languaje/static/js/3.8a10d525.chunk.js.map",
     "index.html": "/my-dictionary-multi-languaje/index.html",
     "static/css/2.f2512455.chunk.css.map": "/my-dictionary-multi-languaje/static/css/2.f2512455.chunk.css.map",
-    "static/css/main.ff89584f.chunk.css.map": "/my-dictionary-multi-languaje/static/css/main.ff89584f.chunk.css.map",
+    "static/css/main.4a5ba4fa.chunk.css.map": "/my-dictionary-multi-languaje/static/css/main.4a5ba4fa.chunk.css.map",
     "static/js/2.7cbca679.chunk.js.LICENSE.txt": "/my-dictionary-multi-languaje/static/js/2.7cbca679.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cfb3ccaf.js",
     "static/css/2.f2512455.chunk.css",
     "static/js/2.7cbca679.chunk.js",
-    "static/css/main.ff89584f.chunk.css",
+    "static/css/main.4a5ba4fa.chunk.css",
     "static/js/main.862812e6.chunk.js"
   ]
 }
