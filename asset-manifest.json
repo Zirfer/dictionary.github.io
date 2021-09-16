@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/my-dictionary-multi-languaje/static/css/main.a617e044.chunk.css",
-    "main.js": "/my-dictionary-multi-languaje/static/js/main.6757e2d4.chunk.js",
-    "main.js.map": "/my-dictionary-multi-languaje/static/js/main.6757e2d4.chunk.js.map",
-    "runtime-main.js": "/my-dictionary-multi-languaje/static/js/runtime-main.391178d0.js",
-    "runtime-main.js.map": "/my-dictionary-multi-languaje/static/js/runtime-main.391178d0.js.map",
-    "static/js/2.5eb0b2a4.chunk.js": "/my-dictionary-multi-languaje/static/js/2.5eb0b2a4.chunk.js",
-    "static/js/2.5eb0b2a4.chunk.js.map": "/my-dictionary-multi-languaje/static/js/2.5eb0b2a4.chunk.js.map",
-    "static/js/3.0151e79d.chunk.js": "/my-dictionary-multi-languaje/static/js/3.0151e79d.chunk.js",
-    "static/js/3.0151e79d.chunk.js.map": "/my-dictionary-multi-languaje/static/js/3.0151e79d.chunk.js.map",
+    "main.css": "/my-dictionary-multi-languaje/static/css/main.851afcae.chunk.css",
+    "main.js": "/my-dictionary-multi-languaje/static/js/main.835cba3d.chunk.js",
+    "main.js.map": "/my-dictionary-multi-languaje/static/js/main.835cba3d.chunk.js.map",
+    "runtime-main.js": "/my-dictionary-multi-languaje/static/js/runtime-main.9d1e969f.js",
+    "runtime-main.js.map": "/my-dictionary-multi-languaje/static/js/runtime-main.9d1e969f.js.map",
+    "static/css/2.f2512455.chunk.css": "/my-dictionary-multi-languaje/static/css/2.f2512455.chunk.css",
+    "static/js/2.04a35a5a.chunk.js": "/my-dictionary-multi-languaje/static/js/2.04a35a5a.chunk.js",
+    "static/js/2.04a35a5a.chunk.js.map": "/my-dictionary-multi-languaje/static/js/2.04a35a5a.chunk.js.map",
+    "static/js/3.0cd2c6a0.chunk.js": "/my-dictionary-multi-languaje/static/js/3.0cd2c6a0.chunk.js",
+    "static/js/3.0cd2c6a0.chunk.js.map": "/my-dictionary-multi-languaje/static/js/3.0cd2c6a0.chunk.js.map",
     "index.html": "/my-dictionary-multi-languaje/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/my-dictionary-multi-languaje/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.5eb0b2a4.chunk.js.LICENSE.txt": "/my-dictionary-multi-languaje/static/js/2.5eb0b2a4.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/my-dictionary-multi-languaje/static/media/logo.6ce24c58.svg"
+    "static/css/2.f2512455.chunk.css.map": "/my-dictionary-multi-languaje/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.851afcae.chunk.css.map": "/my-dictionary-multi-languaje/static/css/main.851afcae.chunk.css.map",
+    "static/js/2.04a35a5a.chunk.js.LICENSE.txt": "/my-dictionary-multi-languaje/static/js/2.04a35a5a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.391178d0.js",
-    "static/js/2.5eb0b2a4.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.6757e2d4.chunk.js"
+    "static/js/runtime-main.9d1e969f.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.04a35a5a.chunk.js",
+    "static/css/main.851afcae.chunk.css",
+    "static/js/main.835cba3d.chunk.js"
   ]
 }
